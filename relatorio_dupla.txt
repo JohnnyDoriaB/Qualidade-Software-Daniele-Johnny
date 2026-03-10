@@ -1,1 +1,5 @@
-
+•	Quais dificuldades encontraram? Encontramos como dificuldade o conhecimento básico sobre o assunto, mas que foi sanado com buscas no youtube;
+•	Como o controle de versão ajuda a evitar erros? Como cria novas versões separadas da principal, caso exista um erro, ele é facilmente corrigido e não afeta o código original, evitando bugs;
+•	Como os commits ajudam na rastreabilidade?  Como são logs, cria um histórico de registros das alterações, com isso, podemos saber exatamente o que está sendo feito e por quem;
+•	Qual a importância do histórico de alterações? Ter conhecimento e controle de quem está alterando e detectar possíveis erros para corrigi-los;
+•	Como o GitHub pode melhorar a qualidade do software? Por meio de colaborações e ferramentas integradas que promovem revisão rigorosa, controle de versão e automação;
