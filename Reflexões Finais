@@ -1,0 +1,5 @@
+1.	O GitHub é apenas um local de armazenamento? Não
+2.	É possível garantir qualidade sem versionamento? Não
+3.	O que acontece se duas pessoas alterarem o mesmo arquivo? Fica registrado as alterações de cada um e validado via Pull Requests;
+4.	Como o GitHub ajuda em auditorias? Através do versionamento e com os commits
+5.	Versionamento impacta na confiabilidade do software? Sim
